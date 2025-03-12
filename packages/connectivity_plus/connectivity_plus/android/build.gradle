@@ -24,7 +24,7 @@ apply plugin: 'com.android.library'
 android {
     compileSdk 34
 
-    namespace 'com.example.tnt_app'
+    namespace 'com.example.my_app'
 
     compileOptions {
       sourceCompatibility JavaVersion.VERSION_17
